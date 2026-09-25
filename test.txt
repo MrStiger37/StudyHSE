@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 hello
 hi
-=======
->>>>>>> parent of a6fb126 (Написал Hello)
+
